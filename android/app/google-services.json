@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910602100644",
+    "firebase_url": "https://colorsdj-13635.firebaseio.com",
+    "project_id": "colorsdj-13635",
+    "storage_bucket": "colorsdj-13635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910602100644:android:520a4c87f1a7eba0106b31",
+        "android_client_info": {
+          "package_name": "br.com.colorsdj.colorsdj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910602100644-h3ep20a4a3d9odi29ld4olca8k717ad0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.colorsdj.colorsdj",
+            "certificate_hash": "9d788d99474661604c80a76f0acb54f046d7c8e4"
+          }
+        },
+        {
+          "client_id": "910602100644-aeuv9pv2rjr4ek7c7rrari27m90ogv7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5vfGq2Em8H5jVERxVpIDEiQ_gF2flKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910602100644-aeuv9pv2rjr4ek7c7rrari27m90ogv7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910602100644-eh8jsa7irlqnlarifel87vr871n8iuui.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.colorsdj.colorsdj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
